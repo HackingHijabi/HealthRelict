@@ -1,0 +1,5 @@
+# I have a dream, to be a teacher, an engineer and a mentor. I got here because of generous people and my strong commitment to learning.
+I am still learning and I hope to create CTFs/Simulations for healthcare workers to learn about cybersecurity.
+#HealthRelict is going to be the first of its kind. I am not a developer but I have AI. I am going to start with an hypotethical legacy monolith refactored into microservices hosted on kubernetes.
+#I will progress to making a vulnerable healthcare app on the web3 and I am going to speak at technology driven events.
+#I am 10days into my new year. So help me God. Amin
